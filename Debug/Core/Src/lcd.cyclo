@@ -1,0 +1,7 @@
+lcd.c:31:6:lcd_send_cmd	1
+lcd.c:47:6:lcd_send_data	1
+lcd.c:63:6:lcd_clear_display	1
+lcd.c:69:6:lcd_return_home	1
+lcd.c:75:6:lcd_initialize	1
+lcd.c:86:6:lcd_print	2
+lcd.c:90:6:lcd_put_cursor	7
